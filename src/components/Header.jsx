@@ -53,7 +53,7 @@ export default function Header() {
             className="flex-shrink-0"
           >
             <img
-              src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/imagens.website.creation/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/logo_1754356973265_0.png"
+              src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/public/user-files/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/1754357374851_ca1l1ad26dj_Captura_de_Tela_2025-08-04_a_s_22.19.27-removebg-preview.png"
               alt="NTCJunta"
               className={`h-12 w-auto transition-all duration-300 ${
                 isScrolled ? '' : 'brightness-0 invert'
